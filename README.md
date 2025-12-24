@@ -43,7 +43,3 @@ Người dùng có thể đặt xe, quản lý chuyến đi, xuất báo cáo, t
 - **Database:** SQL Server 
 - **IDE:** Visual Studio 2022  
 - **OS:** Windows 10 trở lên  
-
----
-```bash
-git clone https://github.com/vanlh25/QuanLyDatXe-ADO.git
